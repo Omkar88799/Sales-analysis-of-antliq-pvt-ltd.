@@ -1,5 +1,4 @@
 # Sales-analysis-of-antliq-pvt-ltd.
-# Sales Insights Data Analysis Project
 
 ### Dashboard Link : https://www.novypro.com/project/antliq-pvt-ltd-company-sales-dashboard-
 
