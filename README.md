@@ -1,7 +1,7 @@
 # Sales-analysis-of-antliq-pvt-ltd.
 
 ### Dashboard Link : https://www.novypro.com/project/antliq-pvt-ltd-company-sales-dashboard-
-
+![Capture](https://github.com/Omkar88799/Sales-analysis-of-antliq-pvt-ltd./assets/155343035/d3cb89aa-4214-4fb7-941c-1401fbd94afa)
 ## Problem Statement
 
 This dashboard helps the company officials understand their sales better. the revenue of company from last 3 years sale and which region or product has most sales in what year
